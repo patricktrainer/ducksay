@@ -2,7 +2,7 @@
 
 
 `ducksay` prints a duck and a message to the terminal.  
-    Inspired by `[cowsay](https://en.wikipedia.org/wiki/Cowsay)`
+    Inspired by [cowsay](https://en.wikipedia.org/wiki/Cowsay)
 
 ### How to install
 
