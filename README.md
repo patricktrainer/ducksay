@@ -18,7 +18,7 @@ Simply pipe any string to `ducksay`.
 $ echo "quack!" | ducksay
 ```
 
-You can pipe duckdb results to `ducksay`!
+You can pipe [duckdb](duckdb.org) results to `ducksay`!
 
 ```bash
 $ duckdb :memory: "select 'quack!' as msg" | ducksay
